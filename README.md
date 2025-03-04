@@ -94,6 +94,23 @@ Your contributions will help improve this chatbot! 🚀
 
 ---
 
+### 📜 Constitution of India - Data Usage & Credits  
+
+The **Constitution of India** document included in this project (`data/ConstitutionOfIndia.pdf`) serves as a sample dataset for document processing, retrieval-augmented generation (RAG), and AI-powered chatbot interactions.  
+
+#### 🏛️ **Source & Attribution**  
+This document is publicly available and was downloaded from the official website of the **Legislative Department, Ministry of Law and Justice, Government of India**:  
+🔗 [https://legislative.gov.in/constitution-of-india/](https://legislative.gov.in/constitution-of-india/)  
+
+#### ⚖️ **Disclaimer**  
+- This document is **freely available** in the public domain as a government publication.  
+- The use of this document in this project is solely for **educational, research, and demonstration purposes**.  
+- No modifications have been made to the content.  
+
+For authoritative reference or legal use, please visit the official government portal.
+
+---
+
 ## ⚖️ License  
 This project is open-source under the MIT License.  
 
@@ -103,4 +120,3 @@ Feel free to modify, enhance, or use this project as a base for your own chatbot
 
 ## 📩 Contact  
 For any suggestions, issues, or feature requests, feel free to open an issue or reach out! 🚀
-
