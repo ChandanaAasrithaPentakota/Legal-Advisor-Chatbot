@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+langchain
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-community
+langchain-chroma
+huggingface-hub
+sentence-transformers
+pypdf
+tiktoken
+ipykernel
+pdfplumber
+faiss-cpu
