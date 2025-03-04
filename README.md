@@ -1,14 +1,13 @@
-# 🧠 AI ChatBot using LangChain & Streamlit  
+# 🧠 Legal Advisor ChatBot using LangChain & Streamlit  
 
 ## 🌟 Overview  
-This is an **open-source AI chatbot** built with **LangChain** and **Streamlit**, utilizing **Groq's LLMs** for intelligent, real-time responses. It supports multiple large language models, maintains session-based chat history, and provides an interactive conversational experience.  
-
-Feel free to modify, improve, or extend this project! 🚀  
+This **open-source AI chatbot** is designed to provide **legal guidance** and insights using LangChain and Streamlit, powered by Groq's LLMs for intelligent and context-aware responses. It helps users navigate legal queries, offering general legal information, case law references, and legal document insights while maintaining session-based chat history for a seamless experience.
 
 ---
 
 ## 🎯 Features  
 ✔️ **Supports Multiple LLMs** (DeepSeek, Gemma, LLaMA)  
+ ✔️**Provides real-time legal assistance with conversational AI**
 ✔️ **Chat History Preservation** (Session-based memory)  
 ✔️ **User-friendly Interface** (Built with Streamlit)  
 ✔️ **Easily Switch Between Models**  
