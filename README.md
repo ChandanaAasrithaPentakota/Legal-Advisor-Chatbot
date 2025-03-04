@@ -70,7 +70,7 @@ AI-ChatBot/
 │── app.py                  # Streamlit UI & main application  
 │── config.py               # API key configuration  
 │── requirements.txt        # Dependencies
-
+```
 ---
 
 ## 🛠️ How It Works  
