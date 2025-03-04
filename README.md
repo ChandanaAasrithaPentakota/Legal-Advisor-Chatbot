@@ -94,7 +94,7 @@ Your contributions will help improve this chatbot! 🚀
 
 ---
 
-### 📜 The Constitution of India - Data Usage & Credits  
+## 📜 The Constitution of India - Data Usage & Credits  
 
 The **Constitution of India** document included in this project (`data/ConstitutionOfIndia.pdf`) serves as a sample dataset for document processing, retrieval-augmented generation (RAG), and AI-powered chatbot interactions.  
 
