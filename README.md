@@ -7,7 +7,7 @@ This **open-source AI chatbot** is designed to provide **legal guidance** and in
 
 ## 🎯 Features  
 ✔️ **Supports Multiple LLMs** (DeepSeek, Gemma, LLaMA)  
- ✔️**Provides real-time legal assistance with conversational AI**
+✔️ **Provides real-time legal assistance with conversational AI**  
 ✔️ **Chat History Preservation** (Session-based memory)  
 ✔️ **User-friendly Interface** (Built with Streamlit)  
 ✔️ **Easily Switch Between Models**  
@@ -19,8 +19,8 @@ This **open-source AI chatbot** is designed to provide **legal guidance** and in
 
 ### **1️⃣ Clone the Repository**  
 ```sh  
-git clone https://github.com/your-username/AI-ChatBot.git  
-cd AI-ChatBot  
+git clone https://github.com/ChandanaAasrithaPentakota/Legal-Advisor-Chatbot.git  
+cd Legal-Advisor-Chatbot  
 ```
 
 ### **2️⃣ Set Up a Virtual Environment (Recommended)**  
@@ -55,7 +55,7 @@ Select a model and start chatting!
 
 ## 🏗️ Project Structure  
 ```bash
-Legal-Advisor-ChatBot/
+Legal-Advisor-Chatbot/
 │── assets/
 │   ├── demo.png
 │── Components/             # Core chatbot components  
@@ -81,9 +81,8 @@ Legal-Advisor-ChatBot/
 🔹 Streamlit-powered UI for real-time interaction  
 
 ---
-
 ## 🤝 Contributing  
-We welcome contributions! 🎉  
+I welcome feedback and suggestions! 🎉
 
 1️⃣ Fork this repository  
 2️⃣ Create a feature branch (`git checkout -b feature-branch`)  
@@ -103,4 +102,5 @@ Feel free to modify, enhance, or use this project as a base for your own chatbot
 ---
 
 ## 📩 Contact  
-For any suggestions, issues, or feature requests, feel free to open an issue or reach out! 🚀  
+For any suggestions, issues, or feature requests, feel free to open an issue or reach out! 🚀
+
