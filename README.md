@@ -15,6 +15,22 @@ This **open-source AI chatbot** is designed to provide **legal guidance** and in
 
 ---
 
+## 🤖 **LLMs Used**  
+
+The chatbot processes queries using the following **Large Language Models (LLMs)** via **Groq's API**:  
+
+- **DeepSeek-R1-Distill-Qwen-32B**  
+
+- **Gemma2-9B-IT**  
+
+- **LLaMA3-8B-8192**  
+
+
+
+These models enhance document comprehension, summarization, and contextual responses related to the **Constitution of India**.  
+
+---
+
 ## 📥 Installation  
 
 ### **1️⃣ Clone the Repository**  
