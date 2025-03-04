@@ -55,15 +55,21 @@ Select a model and start chatting!
 ---
 
 ## 🏗️ Project Structure  
-```bash  
+```bash
 AI-ChatBot/  
-│── app.py               # Streamlit UI & main application  
-│── config.py            # API key configuration  
-│── chatbot.py           # Chatbot logic  
-│── requirements.txt     # Dependencies  
-│── README.md            # Documentation  
-└── venv/                # Virtual environment (optional)  
-```
+│── Components/             # Core chatbot components  
+│   ├── __init__.py         # Package initialization  
+│   ├── chat_history.py     # Handles chat history per session  
+│   ├── doc_load_and_process.py  # Loads and processes documents  
+│   ├── llm.py              # Language Model (LLM) selection logic  
+│   ├── rag_pipeline.py     # Implements Retrieval-Augmented Generation (RAG)  
+│── data/                   # Folder for document storage  
+│   ├── ConstitutionOfIndia.pdf  # Sample document for processing  
+│── LICENSE                 # Open-source license  
+│── README.md               # Project documentation  
+│── app.py                  # Streamlit UI & main application  
+│── config.py               # API key configuration  
+│── requirements.txt        # Dependencies
 
 ---
 
