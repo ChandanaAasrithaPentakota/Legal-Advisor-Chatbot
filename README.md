@@ -55,7 +55,9 @@ Select a model and start chatting!
 
 ## 🏗️ Project Structure  
 ```bash
-AI-ChatBot/  
+Legal-Advisor-ChatBot/
+│── assets/
+│   ├── demo.png
 │── Components/             # Core chatbot components  
 │   ├── __init__.py         # Package initialization  
 │   ├── chat_history.py     # Handles chat history per session  
